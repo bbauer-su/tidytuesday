@@ -1,5 +1,5 @@
 # tidytuesday
-R practice on #tidytuesdy
+R practice on #tidytuesday
 
 ## 2021
 ### Week 15: Deforestation
